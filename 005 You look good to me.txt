@@ -1,0 +1,31 @@
+ABC/HR for Java, Version 0.53a, 14 September 2020
+Testname: 
+
+Tester: 
+
+1R = C:\Audio\15_samples\_200 kbps\Musepack 192 kbps Q5.5\11 You look good to me.wav
+2L = C:\Audio\15_samples\_200 kbps\Apple AAC 192 kbps\11 You look good to me.wav
+3L = C:\Audio\15_samples\_200 kbps\aotuv 192 kbps\11 You look good to me.wav
+4R = C:\Audio\15_samples\_200 kbps\exhale m9 192 kbps\11 You look good to me.wav
+5L = C:\Audio\15_samples\_200 kbps\Opus 182  real 192\11 You look good to me.wav
+6L = C:\Audio\15_samples\_200 kbps\LAME MP3 192 kbps\11 You look good to me.wav
+
+Ratings on a scale from 1.0 to 5.0
+
+---------------------------------------
+General Comments: 
+---------------------------------------
+1R File: C:\Audio\15_samples\_200 kbps\Musepack 192 kbps Q5.5\11 You look good to me.wav
+1R Rating: 4.8
+1R Comment: bass string sounds rotten and a bit broken
+---------------------------------------
+2L File: C:\Audio\15_samples\_200 kbps\Apple AAC 192 kbps\11 You look good to me.wav
+2L Rating: 4.9
+2L Comment: 
+---------------------------------------
+6L File: C:\Audio\15_samples\_200 kbps\LAME MP3 192 kbps\11 You look good to me.wav
+6L Rating: 4.8
+6L Comment: 
+---------------------------------------
+
+ABX Results:

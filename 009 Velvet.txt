@@ -1,0 +1,19 @@
+ABC/HR for Java, Version 0.53a, 15 September 2020
+Testname: 
+
+Tester: 
+
+1R = C:\Audio\15_samples\_200 kbps\LAME MP3 192 kbps\08 velvet.wav
+2R = C:\Audio\15_samples\_200 kbps\Opus 182  real 192\08 velvet.wav
+3L = C:\Audio\15_samples\_200 kbps\exhale m9 192 kbps\08 velvet.wav
+4R = C:\Audio\15_samples\_200 kbps\Apple AAC 192 kbps\08 velvet.wav
+5L = C:\Audio\15_samples\_200 kbps\Musepack 192 kbps Q5.5\08 velvet.wav
+6L = C:\Audio\15_samples\_200 kbps\aotuv 192 kbps\08 velvet.wav
+
+Ratings on a scale from 1.0 to 5.0
+
+---------------------------------------
+General Comments: 
+---------------------------------------
+
+ABX Results:

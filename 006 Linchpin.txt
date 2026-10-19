@@ -1,0 +1,19 @@
+ABC/HR for Java, Version 0.53a, 14 September 2020
+Testname: 
+
+Tester: 
+
+1L = C:\Audio\15_samples\_200 kbps\Opus 182  real 192\09 Linchpin.wav
+2R = C:\Audio\15_samples\_200 kbps\Apple AAC 192 kbps\09 Linchpin.wav
+3R = C:\Audio\15_samples\_200 kbps\LAME MP3 192 kbps\09 Linchpin.wav
+4R = C:\Audio\15_samples\_200 kbps\Musepack 192 kbps Q5.5\09 Linchpin.wav
+5R = C:\Audio\15_samples\_200 kbps\exhale m9 192 kbps\09 Linchpin.wav
+6L = C:\Audio\15_samples\_200 kbps\aotuv 192 kbps\09 Linchpin.wav
+
+Ratings on a scale from 1.0 to 5.0
+
+---------------------------------------
+General Comments: 
+---------------------------------------
+
+ABX Results:

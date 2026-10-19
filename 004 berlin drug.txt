@@ -1,0 +1,39 @@
+ABC/HR for Java, Version 0.53a, 14 September 2020
+Testname: 
+
+Tester: 
+
+1R = C:\Audio\15_samples\_200 kbps\Apple AAC 192 kbps\Berling Drug.wav
+2L = C:\Audio\15_samples\_200 kbps\LAME MP3 192 kbps\Berling Drug.wav
+3R = C:\Audio\15_samples\_200 kbps\Opus 182  real 192\Berling Drug.wav
+4L = C:\Audio\15_samples\_200 kbps\exhale m9 192 kbps\Berling Drug.wav
+5R = C:\Audio\15_samples\_200 kbps\Musepack 192 kbps Q5.5\Berling Drug.wav
+6R = C:\Audio\15_samples\_200 kbps\aotuv 192 kbps\Berling Drug.wav
+
+Ratings on a scale from 1.0 to 5.0
+
+---------------------------------------
+General Comments: 
+---------------------------------------
+1R File: C:\Audio\15_samples\_200 kbps\Apple AAC 192 kbps\Berling Drug.wav
+1R Rating: 4.8
+1R Comment: 
+---------------------------------------
+2L File: C:\Audio\15_samples\_200 kbps\LAME MP3 192 kbps\Berling Drug.wav
+2L Rating: 4.0
+2L Comment: stereo is modified I think. Sound signature  has changed quite noticebly
+---------------------------------------
+4L File: C:\Audio\15_samples\_200 kbps\exhale m9 192 kbps\Berling Drug.wav
+4L Rating: 4.9
+4L Comment: 
+---------------------------------------
+5R File: C:\Audio\15_samples\_200 kbps\Musepack 192 kbps Q5.5\Berling Drug.wav
+5R Rating: 4.8
+5R Comment: 
+---------------------------------------
+6R File: C:\Audio\15_samples\_200 kbps\aotuv 192 kbps\Berling Drug.wav
+6R Rating: 4.8
+6R Comment: 
+---------------------------------------
+
+ABX Results:

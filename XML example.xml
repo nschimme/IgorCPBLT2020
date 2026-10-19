@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="config.xsd">
+  <testname />
+  <testconfig>
+    <original>
+      <location>01 castanets.wav</location>
+      <offset>1000</offset>
+      <gain>-0.05820541</gain>
+    </original>
+    <testsample>
+      <location>aotuv 192 kbps\01 castanets.wav</location>
+      <offset>1000</offset>
+      <gain>-0.04567374</gain>
+    </testsample>
+    <testsample>
+      <location>Apple AAC 192 kbps\01 castanets.wav</location>
+      <offset>1000</offset>
+      <gain>0.0</gain>
+    </testsample>
+    <testsample>
+      <location>exhale m9 192 kbps\01 castanets.wav</location>
+      <offset>1000</offset>
+      <gain>-0.045411717</gain>
+    </testsample>
+    <testsample>
+      <location>LAME MP3 192 kbps\01 castanets.wav</location>
+      <offset>1000</offset>
+      <gain>-0.060272302</gain>
+    </testsample>
+    <testsample>
+      <location>Musepack 192 kbps Q5.5\01 castanets.wav</location>
+      <offset>1000</offset>
+      <gain>-0.04618711</gain>
+    </testsample>
+    <testsample>
+      <location>Opus 182  real 192\01 castanets.wav</location>
+      <offset>1000</offset>
+      <gain>-0.05648859</gain>
+    </testsample>
+  </testconfig>
+  <ratingscale>
+    <min>1.0</min>
+    <max>5.0</max>
+    <increment>0.1</increment>
+    <description>Ratings: 
+
+
+5.0 = Impercebtible
+
+4.0 = Perceptible but not annoying
+
+3.0 = Slightly annoying
+
+2.0 = Annoying
+
+1.0 = Very annoying</description>
+  </ratingscale>
+  <abx>
+    <revealrefpval>0.05</revealrefpval>
+  </abx>
+</config>
+

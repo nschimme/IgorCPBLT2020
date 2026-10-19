@@ -1,0 +1,31 @@
+ABC/HR for Java, Version 0.53a, 05 October 2020
+Testname: 
+
+Tester: 
+
+1R = C:\Audio\15_samples\_200 kbps\LAME MP3 192 kbps\07 applaud.wav
+2R = C:\Audio\15_samples\_200 kbps\exhale m9 192 kbps\07 applaud.wav
+3L = C:\Audio\15_samples\_200 kbps\Apple AAC 192 kbps\07 applaud.wav
+4L = C:\Audio\15_samples\_200 kbps\Musepack 192 kbps Q5.5\07 applaud.wav
+5L = C:\Audio\15_samples\_200 kbps\Opus 182  real 192\07 applaud.wav
+6R = C:\Audio\15_samples\_200 kbps\aotuv 192 kbps\07 applaud.wav
+
+Ratings on a scale from 1.0 to 5.0
+
+---------------------------------------
+General Comments: 
+---------------------------------------
+1R File: C:\Audio\15_samples\_200 kbps\LAME MP3 192 kbps\07 applaud.wav
+1R Rating: 4.8
+1R Comment: 
+---------------------------------------
+3L File: C:\Audio\15_samples\_200 kbps\Apple AAC 192 kbps\07 applaud.wav
+3L Rating: 4.7
+3L Comment: 
+---------------------------------------
+4L File: C:\Audio\15_samples\_200 kbps\Musepack 192 kbps Q5.5\07 applaud.wav
+4L Rating: 4.9
+4L Comment: 
+---------------------------------------
+
+ABX Results:
